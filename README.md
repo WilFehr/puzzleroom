@@ -13,7 +13,7 @@ the purpose of this project was to:
 # key take aways
 I've learned many things from this experience, such as:
 - the importance of test points in PCB manufacturing;
-  -at some point one LED blew out and it took me a while to figure out that that was the issue and not some other hardware/software issue, having easy access to key circuit points would have made this much faster
+  - at some point one LED blew out and it took me a while to figure out that that was the issue and not some other hardware/software issue, having easy access to key circuit points would have made this much faster
 - the iterative design nature in engineering;
   - I had many test breadboard circuits before I set up the schematic in KiCad
   - I had many test prints of the base of the housing before I had a design that worked and I was satisfied with.
