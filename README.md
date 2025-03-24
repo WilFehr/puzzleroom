@@ -1,5 +1,5 @@
 # puzzleroom
-Inspired by a DND puzzle room where the solution is let the timer tick to zero
+Inspired by a DND puzzle room where the solution is to be patient and let the timer tick to zero
 
 # what is in this repo?
 this repo was started quite late in the development process so was created with the some of the files that will be in the final project
