@@ -4,6 +4,10 @@ Inspired by a DND puzzle room where the solution is to be patient and let the ti
 # what is in this repo?
 this repo was started quite late in the development process so was created with the some of the files that will be in the final project
 
+# next step
+now that the electronics, software, and the bottom of the housing units is complete,\
+the next step is the upper part of the housing and the mechanism to press the button from an extended position.
+
 # purpose 
 the purpose of this project was to:
 - gain practial circuit board development experience using KiCad,
